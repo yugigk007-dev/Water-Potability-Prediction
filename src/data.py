@@ -35,3 +35,4 @@ scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 print(X_train[:5])
+#example
