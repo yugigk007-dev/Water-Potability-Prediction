@@ -1,17 +1,11 @@
-# Python
 __pycache__/
 *.pyc
-
-# Jupyter
-.ipynb_checkpoints/
-
-# VS Code
-.vscode/
-
-# Virtual environments
-venv/
 .venv/
+venv/
+.env
 
-# OS files
+# Dataset
+dataset/
+# Temporary files
+*.log
 .DS_Store
-Thumbs.db
